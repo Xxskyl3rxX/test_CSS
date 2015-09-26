@@ -1,84 +1,61 @@
 
-@-moz-document file:///home/xxskyl3rxx/Bureau/test_CSS/index.html(){
-/* cette parie est résevré à l'utlisation du navigateur firefox.
- pour le mode dév pour utiliser le fichier CSS*/
-
-
-#header{
-	background-color:#660FF;
-	/*j'ai trouvé le code de la couleur sur w3 schools section html color pixer*/
-	color:#000000; /* code couleur hexadécimal "noir"*/
-	text-align: center;
-	padding: 10px;
-
-}
-
-	
-body{
-		background-color:#7A7A52;
-		font-family: Andale Mono, Courier New, Kinnari;
-	
-}
-
-	
 #container{
-	background-color:bleu;
-	width:800px;
-	margin-left: auto;
-	margin-right: auto;
 	
-}
-	
-	
-#content{ /* dim content*/
-	
-	padding: 10px;
-	/* ou padding: 10px 10px 10px 10 px
-									top	right bottom left*/
-}	
-	
+	background-color:#9999FF; 
+	width: 500p;
 
-#nav{ /* dimension de la partie nav*/
 	
-	width: 180px
 }
-	
-	
-#nav.selected{
-	font width: bold;
-	
-}	
-	
-#nav.ul{
-	list-style-type: none;
-	padding: 0;
-}	
-	
-	
+
+
 #main{
-	width:60px
-	float;right
-}	
+	
+	text-align: right;
+	width:200p;
+	
+}
 
+#nav{
+	text-align: left;
 	
-a{
-	text-decoration:none; 
-	color:#0000FF;
-}	
-	
-	
-h1{
-	margin:0;
-}	
-	
+}
+
+
+
+
+
 #footer{
 	
-	clear:both;
-	padding: 10px;
-	background-color:#7A7A52
-	/* voir comment aligner un texte à droite*/
+	text-align: center;
+	color:#CC00CC;
 	
-}	
+}
+
+
+
+boody{
+  background-color: black;
+  text-align:center;
+  
+}
+
+
+
+p{
+  
+  font-family: "Kinari","Arial","Antiqua";
+  color:black;
+  
+}
+
+
+h1{
+	
+	text-align:center;
+	color:#CC00CC;
+}
+	
+
 	
 	
 	
@@ -96,7 +73,7 @@ h1{
 	
 	
 	
-}/* partie résevé à firefox*/
+
 
 
 
