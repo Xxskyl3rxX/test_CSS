@@ -12,11 +12,17 @@
 	
 	text-align: right;
 	width:200p;
+	height:800;
 	
 }
 
 #nav{
 	text-align: left;
+	background-color:white;
+	border:5p solid black;
+	width:180px;
+	height:150px; 
+	
 	
 }
 
@@ -27,11 +33,14 @@
 #footer{
 	
 	text-align: center;
-	color:#CC00CC;
+	background-color:#CC00CC;
+	
 	
 }
 
 
+	
+}
 
 boody{
   background-color: black;
@@ -42,11 +51,13 @@ boody{
 
 
 p{
-  
+  background-color:#FFFF66;
   font-family: "Kinari","Arial","Antiqua";
   color:black;
+	
   
 }
+
 
 
 h1{
