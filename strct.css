@@ -10,18 +10,19 @@
 
 #main{
 	
-	text-align: right;
-	width:200p;
+	text-align:center;
+	width:965px;
 	height:800;
 	
 }
 
 #nav{
 	text-align: left;
-	background-color:white;
+	background-color:#CC66FF;
 	border:5p solid black;
-	width:180px;
-	height:150px; 
+	width:160px;
+	height:155px; 
+	padding:10px;
 	
 	
 }
@@ -33,7 +34,7 @@
 #footer{
 	
 	text-align: center;
-	background-color:#CC00CC;
+
 	
 	
 }
@@ -54,6 +55,7 @@ p{
   background-color:#FFFF66;
   font-family: "Kinari","Arial","Antiqua";
   color:black;
+	padding: 85px;
 	
   
 }
