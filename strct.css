@@ -1,8 +1,8 @@
 
 #container{
 	
-	background-color:#9999FF; 
-	width: 500p;
+	background-color:#9999FF;  /*couleur de fond*/
+	width: 500p; /* largeur en pixel sous moz*/
 
 	
 }
@@ -10,19 +10,22 @@
 
 #main{
 	
-	text-align:center;
+	text-align:center; 
+	/* disposition du texte */
 	width:965px;
 	height:800;
+	/* hauteur de la partie main*/
 	
 }
 
 #nav{
 	text-align: left;
 	background-color:#CC66FF;
-	border:5px solid black;
+	border:5px solid black;/* faire une marge à la barre de nav*/
 	width:160px;
 	height:155px; 
 	padding:10px;
+	/* espacement entre les <p>*/
 	
 	
 }
@@ -53,7 +56,8 @@ boody{
 
 p{
   background-color:#FFFF66;
-  font-family: "Kinari","Arial","Antiqua";
+  font-family: "Kinari"; /*choix de la police d'écriture*/
+	font-size: 12px;     
   color:black;
 	padding: 85px;
 	border:5px solid black;
